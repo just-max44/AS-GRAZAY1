@@ -1,0 +1,17 @@
+.players {
+    margin-top: 7%;
+}
+
+footer a {
+    padding-left: 3%;
+    text-align: center;
+    text-decoration: none;
+}
+
+@media (min-width: 768px) {
+    img {
+        margin-top: 5%;
+        max-height: 100%;
+        max-width: 60%;
+    }
+}
